@@ -1,2 +1,2 @@
 # quechua-library
-Directory for all Quechua language resources. Still a work-in-progress.
+Directory for all Quechua language resources. Still in the process of adding resource titles, authors, and links.
