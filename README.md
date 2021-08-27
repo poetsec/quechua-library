@@ -1,3 +1,4 @@
+
 # The Quechua Library
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/poetsec/quechua-library)
@@ -5,7 +6,7 @@
 
 An open source website with the goal of creating a large directory of Quechua language resources.
 
-![homepage-screenshot](https://user-images.githubusercontent.com/52114607/129846143-b302a05b-46cf-44ab-b4e0-6b7335e0af1e.png)
+![quechua-website-screenshot](https://user-images.githubusercontent.com/52114607/131075651-fc111d97-58b8-4d8a-8d57-36deb631b9e0.png)
 
 ## About
 Quechua is a Native American language spoken in Peru, Bolivia, Ecuador, and other South American countries. It can be hard to find resources for learning Quechua or resources written/spoken in the language, and this project aims to solve that problem by gathering links to as many available resources as possible on one website. It acts as a directory of books, video, audio, courses, and other resources with links to where each one can be found online.
