@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# The Quechua Library
 
-You can use the [editor on GitHub](https://github.com/poetsec/quechua-library/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![GitHub last commit](https://img.shields.io/github/last-commit/poetsec/quechua-library)
+![GitHub contributors](https://img.shields.io/github/contributors/poetsec/quechua-library)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+An open source website with the goal of creating a large directory of Quechua language resources.
 
-### Markdown
+![quechua-website-screenshot](https://user-images.githubusercontent.com/52114607/131075651-fc111d97-58b8-4d8a-8d57-36deb631b9e0.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## About
+Quechua is a Native American language spoken in Peru, Bolivia, Ecuador, and other South American countries. It can be hard to find resources for learning Quechua or resources written/spoken in the language, and this project aims to solve that problem by gathering links to as many available resources as possible on one website. It acts as a directory of books, video, audio, courses, and other resources with links to where each one can be found online.
 
-```markdown
-Syntax highlighted code block
+## What Do I Need to Get Involved?
+All you need to contribute to the project is some basic knowledge of HTML, CSS, or JavaScript. You can also contribute to the documentation here on GitHub or in any other way you would like to. Since much of the work needing to be done involves finding resources and adding them to the website (writing in resource titles and providing links to where they can be found online), this project is great for someone new to web development or just starting out with contributing to open source.
 
-# Header 1
-## Header 2
-### Header 3
+For more detailed information check out the [contributing][contributing] guidelines.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/poetsec/quechua-library/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[contributing]: https://github.com/poetsec/quechua-library/blob/main/CONTRIBUTING.md
